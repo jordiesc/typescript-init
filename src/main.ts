@@ -1,4 +1,4 @@
 import {printconsole} from './second.js' 
 
 
-printconsole("desde el inicio");
+printconsole("desde el inicioi 2");
